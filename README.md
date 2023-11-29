@@ -1,4 +1,4 @@
-# Price-Forecasting-With-LSTM
+# Price-Forecasting-With-Neural-Networks
 
 Using Microsoft Stocks, gathered from:
 https://finance.yahoo.com/quote/MSFT/history?p=MSFT
@@ -33,7 +33,7 @@ This project creates several neural network models with different architectures 
 ## Create Slide Apresentation
 
 ```bash
-    jupyter nbconvert Prices.ipynb --to slides --post serve --SlidesExporter.reveal_scroll=True
+    jupyter nbconvert Prices.ipynb --to slides --SlidesExporter.reveal_scroll=True
 ```
 
 ## Details
