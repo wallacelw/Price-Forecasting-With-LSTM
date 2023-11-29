@@ -1,4 +1,4 @@
-# Price-Forecasting-With-LSTM
+# Price-Forecasting-With-Neural-Networks
 
 Using Microsoft Stocks, gathered from:
 https://finance.yahoo.com/quote/MSFT/history?p=MSFT
